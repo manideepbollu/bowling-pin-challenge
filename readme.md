@@ -1,5 +1,5 @@
 # Javascript solution for Bowling Pins challenge
-Based on Sprague Grundy Game Theory
+Based on **Sprague Grundy Game Theory** explained in [Theory of Impartial Games](http://web.mit.edu/sp.268/www/nim.pdf)
 
 Requirements:
 [Node.js](https://nodejs.org/en/download/) server must be installed on your local computer.
